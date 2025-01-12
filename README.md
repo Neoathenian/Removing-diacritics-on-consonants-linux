@@ -32,8 +32,5 @@ For your system to recognize the `.XCompose` file and its custom sequences, you 
    source ~/.bashrc
    ```
 
-3. Restart you computer.
-
-
 
 
